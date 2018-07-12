@@ -20,7 +20,7 @@ setup(
         'Programming Language :: Python :: Implementation :: PyPy',
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
-    keywords="concurrency parallelism iterator iterable multiprocessing imap",
+    keywords="jsonlines csv",
     author="Javier Ruere",
     author_email="javier@ruere.com.ar",
     zip_safe=True,
